@@ -6,7 +6,7 @@ from admin import *
 from visual import *
 from viz import *
 from lang_detect import *
-from flask_bcrypt import Bcrypt
+# from flask_bcrypt import Bcrypt
 from werkzeug.security import generate_password_hash, check_password_hash
 
 app = Flask(__name__, template_folder='templates')

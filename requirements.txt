@@ -4,8 +4,6 @@ pymongo==3.11.1
 textblob==0.15.3
 gensim==3.8.3
 tweepy==3.9.0
-googletrans==3.0.0
-afinn==0.1
 py3-validate-email==0.2.12
 Pyrebase4==4.4.1
 google-play-scraper==0.1.1
